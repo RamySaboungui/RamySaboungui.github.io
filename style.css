@@ -1,5 +1,5 @@
 .logo {
-	float: none;
+	float: center;
 }
 
 .intro-message {
@@ -30,7 +30,14 @@ p {
 	font: bold;
 }
 
-.our-features {
-	background: transparent;
-	list-style-type: none;
+p#feature-name {
+	text-align: center;
+	color: white;
+
 }
+
+ul#feature-list {
+ 	list-style-type: none;
+
+ }
+
