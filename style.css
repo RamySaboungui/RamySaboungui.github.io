@@ -28,6 +28,14 @@ ul#dropdown {
 	padding-left: 10%;
 }
 
+ul .dropdown-menu {
+	background-color: white;
+}
+
+li .dropdown-header {
+	background-color: #58595B;
+	color: white;
+}
 
 .intro-message {
 	text-align: left;
