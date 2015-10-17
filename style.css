@@ -53,6 +53,12 @@ p {
 	font: bold;
 }
 
+h3#feature-title {
+	color: #91C3E9;
+
+}
+
+
 .our-features {
 	padding-right: 20%;
 
