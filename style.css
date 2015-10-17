@@ -1,7 +1,25 @@
 body {
 	background: url(wed.jpg) no-repeat center center;
 	background-position: top;
-	padding-top: 30%;
+	padding-top: 10%;
+	text-align: left;
+}
+
+
+.navbar {
+	
+}
+
+ul#dropdownMenu3 {
+ 	padding-top: 2%;
+ }
+
+.navbar-header {
+	background: transparent;
+}
+
+ul#dropdown {
+	color: #91C3E9;
 }
 
 
@@ -52,15 +70,6 @@ ul#feature-list {
  	list-style-type: none;
  }
 
- ul#dropdownMenu3 {
- 	padding-top: 2%;
- }
-
-
-.navbar-header {
-	background: transparent;
-}
-
-
+ 
 
 
